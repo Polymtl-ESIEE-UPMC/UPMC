@@ -1,0 +1,45 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to H:/3E201/Mini-Projet/Projet_TRAN_TRINH/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.13 secs
+ 
+--> Parameter xsthdpdir set to H:/3E201/Mini-Projet/Projet_TRAN_TRINH/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.13 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+WARNING:HDLParsers:3607 - Unit work/ip_rotary/Behavioral is now defined in a different file.  It was defined in "//turing/commun/denouletj/3E201/TP/Sources_Debut_TP/ip_rotary.vhd", and is now defined in "//turing/homes/3E201/Mini-Projet/Projet_TRAN_TRINH/ip_rotary.vhd".
+WARNING:HDLParsers:3607 - Unit work/ip_rotary is now defined in a different file.  It was defined in "//turing/homes/3E201/Mini-Projet/Projet_TRAN_TRINH/ip_rotary.vhd", and is now defined in "//turing/commun/denouletj/3E201/TP/Sources_Debut_TP/ip_rotary.vhd".
+WARNING:HDLParsers:3607 - Unit work/ip_rotary/Behavioral is now defined in a different file.  It was defined in "//turing/homes/3E201/Mini-Projet/Projet_TRAN_TRINH/ip_rotary.vhd", and is now defined in "//turing/commun/denouletj/3E201/TP/Sources_Debut_TP/ip_rotary.vhd".
+Compiling vhdl file "//turing/commun/denouletj/3E201/TP/Sources_Debut_TP/rotary.vhd" in Library work.
+Architecture behavioral of Entity rotary is up to date.
+Compiling vhdl file "//turing/homes/3E201/Mini-Projet/Projet_TRAN_TRINH/ip_rotary.vhd" in Library work.
+WARNING:HDLParsers:3530 - Time stamp of file "//turing/homes/3E201/Mini-Projet/Projet_TRAN_TRINH/ip_rotary.vhd" is newer than current system time.
+Entity <ip_rotary> compiled.
+Entity <ip_rotary> (Architecture <behavioral>) compiled.
+Compiling vhdl file "//turing/homes/3E201/Mini-Projet/Projet_TRAN_TRINH/move.vhd" in Library work.
+Architecture behavioral of Entity move is up to date.
+Compiling vhdl file "//turing/commun/denouletj/3E201/TP/Sources_Debut_TP/ip_rotary.vhd" in Library work.
+Architecture behavioral of Entity ip_rotary is up to date.
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.86 secs
+ 
+--> 
+
+Total memory usage is 216208 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    5 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

@@ -1,0 +1,45 @@
+AR ip_rotary behavioral "//turing/homes/Projet 3E201/Projet_TRAN_TRINH/ip_rotary.vhd" sub00/vhpl28 1460052863
+AR ball behavioral "//turing/homes/Projet 3E201/Projet_TRAN_TRINH/ball.vhd" sub00/vhpl16 1460052845
+EN brick_ctrl NULL //turing/commun/denouletj/3E201/TP/Sources_Debut_TP/brick.vhd sub00/vhpl17 1460052846
+EN display NULL "//turing/homes/Projet 3E201/Projet_TRAN_TRINH/display.vhd" sub00/vhpl05 1460052830
+AR button_mgr behavioral "//turing/homes/Projet 3E201/Projet_TRAN_TRINH/button_mgr.vhd" sub00/vhpl03 1460052861
+AR decor behavioral "//turing/homes/Projet 3E201/Projet_TRAN_TRINH/decor.vhd" sub00/vhpl10 1460052839
+AR pad behavioral //turing/commun/denouletj/3E201/TP/Sources_Debut_TP/pad.vhd sub00/vhpl12 1460052841
+AR clkdiv behavioral "//turing/homes/Projet 3E201/Projet_TRAN_TRINH/ClkDiv.vhd" sub00/vhpl01 1460052857
+EN mode NULL "//turing/homes/Projet 3E201/Projet_TRAN_TRINH/mode.vhd" sub00/vhpl43 1460052832
+AR uartcomponent behavioral "//turing/homes/Projet 3E201/Projet_TRAN_TRINH/UARTcomponent.vhd" sub00/vhpl20 1460052849
+AR display behavioral "//turing/homes/Projet 3E201/Projet_TRAN_TRINH/display.vhd" sub00/vhpl06 1460052831
+EN uartcomponent NULL "//turing/homes/Projet 3E201/Projet_TRAN_TRINH/UARTcomponent.vhd" sub00/vhpl19 1460052848
+AR vga archi //turing/commun/denouletj/3E201/TP/Sources_Debut_TP/VGA.vhd sub00/vhpl36 1460052871
+AR rotary behavioral "//turing/homes/Projet 3E201/Projet_TRAN_TRINH/rotary.vhd" sub00/vhpl24 1460052853
+AR game_mgr behavioral "//turing/homes/Projet 3E201/Projet_TRAN_TRINH/game_mgr.vhd" sub00/vhpl42 1460052835
+EN objects NULL //turing/commun/denouletj/3E201/TP/Sources_Debut_TP/objects.vhd sub00/vhpl31 1460052866
+EN clkdiv NULL "//turing/homes/Projet 3E201/Projet_TRAN_TRINH/ClkDiv.vhd" sub00/vhpl00 1460052856
+AR brick_ctrl behavioral //turing/commun/denouletj/3E201/TP/Sources_Debut_TP/brick.vhd sub00/vhpl18 1460052847
+EN bounce NULL //turing/commun/denouletj/3E201/TP/Sources_Debut_TP/bounce.vhd sub00/vhpl13 1460052842
+EN ball NULL "//turing/homes/Projet 3E201/Projet_TRAN_TRINH/ball.vhd" sub00/vhpl15 1460052844
+AR move_rs232 behavioral "//turing/homes/Projet 3E201/Projet_TRAN_TRINH/move_RS232.vhd" sub00/vhpl22 1460052851
+EN vga NULL //turing/commun/denouletj/3E201/TP/Sources_Debut_TP/VGA.vhd sub00/vhpl35 1460052870
+AR move behavioral "//turing/homes/Projet 3E201/Projet_TRAN_TRINH/move.vhd" sub00/vhpl40 1460052855
+EN top NULL "//turing/homes/Projet 3E201/Projet_TRAN_TRINH/top.vhd" sub00/vhpl37 1460052872
+EN move_rs232 NULL "//turing/homes/Projet 3E201/Projet_TRAN_TRINH/move_RS232.vhd" sub00/vhpl21 1460052850
+AR mode behavioral "//turing/homes/Projet 3E201/Projet_TRAN_TRINH/mode.vhd" sub00/vhpl44 1460052833
+EN game_mgr NULL "//turing/homes/Projet 3E201/Projet_TRAN_TRINH/game_mgr.vhd" sub00/vhpl41 1460052834
+AR switch_mgr behavioral "//turing/homes/Projet 3E201/Projet_TRAN_TRINH/switch_mgr.vhd" sub00/vhpl26 1460052859
+AR game behavioral "//turing/homes/Projet 3E201/Projet_TRAN_TRINH/game.vhd" sub00/vhpl34 1460052869
+EN button_mgr NULL "//turing/homes/Projet 3E201/Projet_TRAN_TRINH/button_mgr.vhd" sub00/vhpl02 1460052860
+EN decor NULL "//turing/homes/Projet 3E201/Projet_TRAN_TRINH/decor.vhd" sub00/vhpl09 1460052838
+EN pad NULL //turing/commun/denouletj/3E201/TP/Sources_Debut_TP/pad.vhd sub00/vhpl11 1460052840
+EN move NULL "//turing/homes/Projet 3E201/Projet_TRAN_TRINH/move.vhd" sub00/vhpl39 1460052854
+AR master_slave_mgr behavioral "//turing/homes/Projet 3E201/Projet_TRAN_TRINH/mas_sla_mgr.vhd" sub00/vhpl08 1460052837
+EN rotary NULL "//turing/homes/Projet 3E201/Projet_TRAN_TRINH/rotary.vhd" sub00/vhpl23 1460052852
+EN game NULL "//turing/homes/Projet 3E201/Projet_TRAN_TRINH/game.vhd" sub00/vhpl33 1460052868
+EN ip_rotary NULL "//turing/homes/Projet 3E201/Projet_TRAN_TRINH/ip_rotary.vhd" sub00/vhpl27 1460052862
+EN ip_uart NULL "//turing/homes/Projet 3E201/Projet_TRAN_TRINH/ip_uart.vhd" sub00/vhpl29 1460052864
+AR objects behavioral //turing/commun/denouletj/3E201/TP/Sources_Debut_TP/objects.vhd sub00/vhpl32 1460052867
+AR bounce behavioral //turing/commun/denouletj/3E201/TP/Sources_Debut_TP/bounce.vhd sub00/vhpl14 1460052843
+AR ip_uart behavioral "//turing/homes/Projet 3E201/Projet_TRAN_TRINH/ip_uart.vhd" sub00/vhpl30 1460052865
+EN switch_mgr NULL "//turing/homes/Projet 3E201/Projet_TRAN_TRINH/switch_mgr.vhd" sub00/vhpl25 1460052858
+AR top behavioral "//turing/homes/Projet 3E201/Projet_TRAN_TRINH/top.vhd" sub00/vhpl38 1460052873
+EN master_slave_mgr NULL "//turing/homes/Projet 3E201/Projet_TRAN_TRINH/mas_sla_mgr.vhd" sub00/vhpl07 1460052836
+PH pong_pack NULL //turing/commun/denouletj/3E201/TP/Sources_Debut_TP/pong_package.vhd sub00/vhpl04 1460052829

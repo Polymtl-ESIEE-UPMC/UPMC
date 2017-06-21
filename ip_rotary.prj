@@ -1,0 +1,4 @@
+vhdl work "I:/denouletj/3E201/TP/Sources_Debut_TP/rotary.vhd"
+vhdl work "I:/denouletj/3E201/TP/Sources_Debut_TP/ip_rotary.vhd"
+vhdl work "move.vhd"
+vhdl work "ip_rotary.vhd"

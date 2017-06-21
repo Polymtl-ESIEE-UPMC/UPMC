@@ -1,0 +1,5 @@
+set -tmpdir "H:/3E201/Mini-Projet/Projet_TRAN_TRINH/xst/projnav.tmp"
+set -xsthdpdir "H:/3E201/Mini-Projet/Projet_TRAN_TRINH/xst"
+elaborate
+-ifn button_mgr.prj
+-ifmt mixed

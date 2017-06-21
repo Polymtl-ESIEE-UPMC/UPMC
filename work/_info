@@ -1,0 +1,166 @@
+m255
+K3
+z0
+13
+cModel Technology
+Z0 dH:\Projet 3E201\Nouveau dossier\Projet_TRAN_TRINH
+T_opt
+V?4[mz]c<@nRHAU4VXZE:V0
+Z1 04 8 8 work testmode behavior 1
+=1-60a44c52630d-5706a038-180-f84
+Z2 o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+Z3 OE;O;6.6f;45
+R0
+T_opt1
+Vk_GX?d@]IWm>Wij9kM>e21
+04 4 10 work mode behavioral 1
+=1-60a44c52630d-57069b82-29-1b18
+R2
+n@_opt1
+R3
+R0
+T_opt2
+VN4ZRCEi4C5ZmfBg>_hoM41
+R1
+=1-60a44c52630d-57069d5c-330-1d44
+R2
+n@_opt2
+R3
+R0
+Eclkdiv
+Z4 w1456150920
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z7 dE:/OneDrive/Work/Education/L3 UPMC/HK2/3E201/TP/Projet_TRAN_TRINH
+Z8 8ClkDiv.vhd
+Z9 FClkDiv.vhd
+l0
+L32
+V[GKFd5DBk>=bZI0N<YO9z0
+!s100 c]?JOXYAGj7WPVn9h5TDE2
+Z10 OP;C;10.4a;61
+31
+Z11 !s110 1475701055
+!i10b 1
+Z12 !s108 1475701055.000000
+Z13 !s90 -reportprogress|300|-explicit|-93|ClkDiv.vhd|
+Z14 !s107 ClkDiv.vhd|
+!i113 1
+Z15 o-explicit -93 -O0
+Z16 tExplicit 1
+Abehavioral
+R5
+R6
+DEx4 work 6 clkdiv 0 22 [GKFd5DBk>=bZI0N<YO9z0
+l40
+L38
+V5;7cj8>Lf30cOz_:OU6G?3
+!s100 JWHZIzW^gFNe;6iAGf>`m2
+R10
+31
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16
+Emode
+Z17 w1460052050
+Z18 DPx4 ieee 15 std_logic_arith 0 22 GJbAT?7@hRQU9IQ702DT]2
+Z19 DPx4 ieee 18 std_logic_unsigned 0 22 hEMVMlaNCR^<OOoVNV;m90
+Z20 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+R0
+Z21 8mode.vhd
+Z22 Fmode.vhd
+l0
+L33
+VaHmd3>ROeRcMW0U3:LBdl2
+Z23 OE;C;6.6f;45
+31
+Z24 o-explicit -93
+R16
+!s100 GGL[XcS<48^LBYCkB[cd43
+Abehavioral
+R18
+R19
+R20
+DEx4 work 4 mode 0 22 aHmd3>ROeRcMW0U3:LBdl2
+l56
+L45
+VTg4EF9_6KPWnc@TRAenE@3
+R23
+31
+Mx3 4 ieee 14 std_logic_1164
+Mx2 4 ieee 18 std_logic_unsigned
+Mx1 4 ieee 15 std_logic_arith
+R24
+R16
+!s100 UY]63:SRe9NY3zdz<BY5i2
+Esimu
+Z25 w1456151268
+R5
+R6
+R7
+Z26 8Simu.vhd
+Z27 FSimu.vhd
+l0
+L35
+VL>eFNBMN8>Y5i>k@2Sge20
+!s100 gkOameWa0Re6>@A?W_>eF3
+R10
+31
+R11
+!i10b 1
+R12
+Z28 !s90 -reportprogress|300|-explicit|-93|Simu.vhd|
+Z29 !s107 Simu.vhd|
+!i113 1
+R15
+R16
+Abehavior
+R5
+R6
+DEx4 work 4 simu 0 22 L>eFNBMN8>Y5i>k@2Sge20
+l62
+L38
+Vh7lGHWWTY3PSNTo4VFBW:1
+!s100 ;L:H4M51RBk<Om2NcoXmJ1
+R10
+31
+R11
+!i10b 1
+R12
+R28
+R29
+!i113 1
+R15
+R16
+Etestmode
+Z30 w1460049883
+R20
+R0
+Z31 8TestMode.vhd
+Z32 FTestMode.vhd
+l0
+L35
+VZG2Z9H=T06c;`Fo3bo^G@0
+R23
+31
+R24
+R16
+!s100 OoNVR63X]GOYCV]mAoNkN3
+Abehavior
+R20
+DEx4 work 8 testmode 0 22 ZG2Z9H=T06c;`Fo3bo^G@0
+l73
+L38
+VneQl281aGmIjc4dXcfHRR2
+R23
+31
+Mx1 4 ieee 14 std_logic_1164
+R24
+R16
+!s100 zdXd`:dJe<1;D1ddnglRk3
